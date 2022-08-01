@@ -1,0 +1,90 @@
+ body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #C9BBCF;
+  
+  
+} 
+.container{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+
+.card{
+  background-color: white;
+}
+
+.btn-primary{
+  background-color: #898AA6;
+  border: none;
+}
+.btn-primary:hover{
+  background-color: #B7D3DF;
+}
+.container-fluid{
+  padding: 0px;
+  
+}
+#fotoCV{
+  margin: auto;
+}
+
+/* .App {
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+} */
+/* nav {
+  position: sticky;
+  top: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background-color: #eaeaea;
+  transition: top 500ms ease-in-out;
+} */
+
+/* .links {
+  display: flex;
+  margin: 0 -1em;
+} */
+/* .links a {
+  display: inline-block;
+  margin: 0 1em;
+} */
+{
+  box-sizing: content-box;
+}
+
+/* .logo {
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+} */
+
+
+/* nav a{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+} */
+
+
+
+
+
+/* input {
+  margin-left: 10px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+label {
+  margin: 10px;
+} */
