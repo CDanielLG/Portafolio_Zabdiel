@@ -1,90 +1,52 @@
- body {
-  font-family: 'Montserrat', sans-serif;
-  background-color: #C9BBCF;
-  
-  
-} 
-.container{
+body {
+  font-family: "Montserrat", sans-serif;
+  color: aliceblue;
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.container {
   margin-top: 50px;
   margin-bottom: 50px;
   
 }
 
-.card{
-  background-color: white;
+.card {
+  background-color:#395B64 ;
+  background-origin: content-box;
+padding: auto;
 }
 
-.btn-primary{
-  background-color: #898AA6;
+.btn-primary {
+  background-color: 
+  #A5C9CA;
   border: none;
 }
-.btn-primary:hover{
-  background-color: #B7D3DF;
+.btn-primary:hover {
+  background-color: #2C3333;
 }
-.container-fluid{
+.container-fluid {
   padding: 0px;
-  
 }
-#fotoCV{
+#fotoCV {
   margin: auto;
 }
-
-/* .App {
-  display: flex; 
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  flex-direction: column;
-} */
-/* nav {
-  position: sticky;
-  top: 0px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  padding: 1.5rem 2rem;
-  background-color: #eaeaea;
-  transition: top 500ms ease-in-out;
-} */
-
-/* .links {
-  display: flex;
-  margin: 0 -1em;
-} */
-/* .links a {
-  display: inline-block;
-  margin: 0 1em;
-} */
-{
-  box-sizing: content-box;
+footer {
+  background-color: #b7d3df;
 }
 
-/* .logo {
-    font-weight: bold;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-} */
 
+ div h2{
+  text-shadow: #b7d3df 5px 5px 5px; 
+ }
 
-/* nav a{
-    color: black;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-} */
-
-
-
-
-
-/* input {
-  margin-left: 10px;
-}
-table,
-th,
-td {
-  border: 1px solid black;
-}
-label {
-  margin: 10px;
-} */
